@@ -1,0 +1,579 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: black;
+}
+.main1{
+    height: 10vh;
+    width: 100%;
+    background-color: black;
+    color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: xx-large;
+    font-weight: bolder;
+    list-style: none;
+    /* border: 2px solid white; */
+    position: fixed;
+    font-style: italic;
+    /* top: 0;
+    width: 100%; */
+}
+a{
+    text-decoration: none;
+    color: beige;
+}
+.ah:hover{
+    color: rgb(68, 11, 224);
+    transition: 1s;
+}
+.main2{
+    height: 110vh;
+    width: 100%;
+    /* background-color: rgb(234, 5, 5); */
+    color: rgb(172, 191, 197);
+    font-size: large;
+    font-weight: bold;
+    display: flex;   
+    background-image: url(./programming-code-made-with-binary-code-coding-hacker-background-digital-binary-data-streaming-digital-code_127544-778.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-style: oblique;
+
+}
+.text{
+    color: white;
+    /* background-color: black; */
+    height: 100%;
+    width: 50%;
+    /* display: flex; */
+    /* background-image: url(./back.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+
+   
+}
+.divtext{
+    height: 5%;
+    width: 100%;
+    /* background-color: black; */
+    
+    /* font-size: x-large; */
+    /* font-weight: bold; */
+    color: rgb(0, 255, 34);    
+    margin-top: 150px;
+    font-weight: bolder;
+    font-style: italic;
+
+
+}
+.divtext1{
+    height: 90%;
+    width: 100%;
+    /* background-color: black; */
+    display: flex;
+    font-size: 300%;
+    font-weight: bolder;
+    color: rgb(146, 253, 7);
+    font-family: 'Times New Roman', Times, serif;
+    -webkit-text-stroke: 1px white; 
+    /* text-stroke: 1px white; */
+    margin-top: 100px;
+
+
+    
+}
+.divtext2{
+    height: 5%;
+    width: 100%;
+    color: rgb(10, 226, 226);
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    /* background-color: aqua; */
+    margin-top: -300px;
+}
+.head1{
+    color: pink;
+}
+.logo{
+    height: 100%;
+    width: 60%;
+    /* background-image: url(./back.webp);
+    background-repeat: no-repeat;
+    background-position: center; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img1{
+    /* border-bottom-left-radius: 500px; */
+    /* border-top-left-radius: 500px; */
+    border-radius: 80%;
+
+
+}
+.main3{
+    height: 260vh;
+    width: 100%;
+    background-color: white;
+    color: transparent;
+    font-style: oblique;
+
+}
+.about1{
+    height: 8%;
+    width:100%;
+    /* background-color: aliceblue; */
+}
+.about2{
+    height: 5%;
+    width:100%;
+    /* background-color: rgb(6, 128, 235); */
+     color: rgb(13, 93, 184); 
+    font-size: 400%;
+    font-weight: bolder;
+}
+.about3{
+    height: 5%;
+    width:100%;
+    /* background-color: aliceblue; */
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.about4{
+    height: 20%;
+    width:100%;
+    /* background-color: rgb(13, 224, 125); */
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+
+
+}
+.about5{
+    height: 10%;
+    width:100%;
+    /* background-color: aliceblue; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.res{
+    height: 100%;
+    width: 80%;
+    /* background-color: black; */
+    color: white;
+
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.as1{
+    height: 30%;
+    border-radius: 50px;
+    width: 60%;
+    background-color: transparent; 
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+    box-shadow: 250px rgb(14, 140, 212);
+
+}
+.HIRE{
+    color: rgb(224, 77, 18);
+    /* box-shadow: 250px salmon; */
+
+}
+.as1:hover{
+    background-color: black ;
+    scale: 1;
+}
+.hire{
+    height: 100%;
+    width: 50%;
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.as2{
+    height: 30%;
+    width: 60%;
+    background-color: black;
+    /* border: 2px solid rgb(243, 19, 19); */
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: transparent;
+    font-size: xx-large;
+    font-weight: bolder;
+    box-shadow: 250px rgb(204, 9, 106);
+
+    
+
+
+}
+.as2:hover{
+       background-color: rgb(17, 20, 212);
+       transition: 1s;
+
+}
+.res{
+    color: rgb(228, 18, 46);
+}
+
+.about6{
+    height: 3%;
+    width:100%;
+    /* background-color: rgb(194, 127, 19); */
+    font-size: 300%;
+    font-weight: bolder;
+         color: rgb(34, 22, 68); 
+    
+}
+.about7{
+    height: 5%;
+    width:100%;
+    /* background-color: rgb(225, 21, 197); */
+    font-size: 400%;
+    font-weight: bolder;
+    color: black;
+}
+.about8{
+    height: 44%;
+    width:100%;
+    /* background-color: aliceblue; */
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+fieldset{
+    border: 3px double rgb(216, 15, 15);
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    line-height: 120%;
+    width: 70%;
+    /* border-collapse: collapse; */
+    /* display: flex; */
+}
+legend{
+    color: black;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.head4{ color: rgb(150, 131, 134);}
+
+
+.a2{
+    color: rgb(7, 221, 193);
+    font-weight: bolder;
+    font-size: larger;
+}
+.main4{
+    height: 50vh;
+    width: 100%;
+    background-color: white; 
+    color: rgb(167, 136, 141);
+    font-style: oblique;
+}
+
+.cont1{
+    height: 10%;
+    width: 100%;
+    background-color: white;
+    color: rgb(114, 69, 106);
+    font-size: xx-large;
+    font-weight: bold;
+
+}
+.cont2{
+    height: 20%;
+    width: 100%;
+    /* background-color: black; */
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+}
+.cont3{
+    height: 60%;
+    width: 100%;
+    /* background-color: black; */
+    font-size: xx-large;
+    font-weight: bolder;
+    color: rgb(99, 59, 65);
+}
+
+.a3{
+    color: rgb(148, 55, 70);
+}
+.a5{     color: rgb(148, 55, 70);}
+
+.a6{
+    color: rgb(148, 55, 70);
+}
+.cont4{
+    height: 10%;
+    width: 100%;
+    color: pink;
+
+}
+.main5{
+    height: 100vh;
+    width: 100%;
+    /* background-color: rgb(230, 34, 191); */
+    color: beige;
+    background-image: url(./thumbbig-1156488.webp);
+    background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+font-style: oblique;
+
+}
+.skill{
+    height: 80%;
+    width: 40%;
+     /*background-color: aqua; */
+     color: transparent;
+}
+.skill1{
+    height: 20%;
+    width: 100%;
+    /* background-color: aquamarine; */
+    font-size: 300%;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(112, 25, 193);
+}
+:hover.main5>.skill>.skill2{
+     color:  beige; 
+    transition: 2s;
+    /* transition-timing-function:cubic-bezier(0.55, 0.055, 0.675, 0.19); */
+    transition-delay: 1s;
+}
+hr{
+    color: rgb(112, 93, 218);
+}
+.skill2{
+    height: 80%;
+    width: 100%;font-size: 300%;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    list-style: none;
+    line-height: 189%;
+}
+.project{
+    height: 80%;
+     width: 40%;
+     color: transparent;
+    /*background-color: aqua; */
+}
+.project1{
+    height: 20%;
+    width: 100%;
+    /* background-color: rgb(5, 136, 250); */
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    list-style: none;
+    line-height: 189%;
+    font-size: 300%;
+    color: rgb(109, 166, 241);
+
+
+}
+.project2{
+    height: 80%;
+    width: 100%;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    list-style: none;
+    line-height: 189%;
+    color: transparent;
+    font-size: larger;
+
+}
+.head0{
+    font-size: 200%;
+    color: blue;
+}
+:hover.main5>.project>.project2{
+    color:  beige; 
+    transition: 3s;
+    /* transition-duration: 5s; */
+    /* transform-style: preserve-3d; */
+    transition-delay: 2s;
+    /* transform-origin: 3cm; */
+    /* transition-property: inherit; */
+    /* transform-style: initial; */
+    /* -o-transition:cubic-bezier(0.895, 0.03, 0.685, 0.22); */
+    /* -moz-transition-end-duration: 6s; */
+    /* scroll-snap-stop: right; */
+    /* scrollbar-arrow-color: aquamarine; */
+    /* scale: 0.7; */
+    
+
+}
+/* .main2:hover{
+    color: transparent;
+    transition: 3s;
+    transition-delay: 2s;
+
+} */
+.main6{
+    height: 100vh;
+    width: 100%;background-color: white; 
+    font-style: oblique;
+
+}
+.say1{
+    height: 15%;
+    width: 100%;
+
+}
+.say2{
+    height: 10%;
+    width: 100%;
+    font-size: 350%;
+    font-weight: bolder;
+    color: rgb(235, 15, 15);
+
+
+}
+.say3{
+    height: 10%;
+    width: 100%;
+    /* background-color: rgb(0, 255, 76); */
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+.say4{
+    height: 30%;
+    width: 100%;
+    /* background-color: aqua; */
+    font-size: 350%;
+    font-weight: bolder;
+    /* color: transparent; */
+
+
+}
+.email{
+    color: rgb(241, 74, 22);
+}
+.say5{
+    height: 15%;
+    width: 100%;
+    /* background-color: rgb(119, 0, 255); */
+
+}
+.say6{
+    height: 5%;
+    width: 100%;
+    /* background-color: rgb(255, 0, 174); */
+    font-weight: bolder;
+    font-size: xx-large;
+
+}
+.say7{
+    height: 5%;
+    width: 100%;
+    /* background-color: rgb(217, 139, 31); */
+    font-weight: bolder;
+    font-size: xx-large;   
+    color: black;
+    display: flex;
+
+
+}
+.twit{
+    color: rgb(163, 58, 146);
+
+
+}.insta{
+    color: rgb(31, 16, 235);
+}
+    .in{
+        color: rgb(51, 21, 224);;
+    }
+    .in:hover{
+        color: rgb(6, 182, 252);
+        transition: 3s;
+    }
+    .insta:hover{
+        color: rgb(6, 182, 252);
+        transition: 3s;
+
+    }
+    .twit:hover{
+        color: rgb(6, 182, 252);
+        transition: 3s;
+    }
+    
+
+
+.say8{
+    height: 10%;
+
+
+    width: 100%;
+    font-weight: bolder;
+    font-size: xx-large;   
+    color: rgb(10, 206, 92);
+    display: flex;
+    /* background-color: rgb(130, 127, 123); */
+
+}
+.link{
+    color: black;
+}
+label{
+    color :black
+}
+.aemail{
+    color: rgb(32, 29, 216);
+}
+.aemail:hover{
+    color: rgb(60, 99, 114);
+    transition: 3s;
+    /* transition-delay: 3s; */
+    /* scale: .5; */
+}
+.main7{
+    height: 10vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
